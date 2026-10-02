@@ -7,7 +7,7 @@ function Navbar(){
 
   <div className="flex gap-6">
   <a href="#home" className="text-gray-300 transition-colors hover:text-orange-500">Home</a>
-  <a className="text-gray-300 transition-colors hover:text-orange-500">About</a>
+  <a href="#about" className="text-gray-300 transition-colors hover:text-orange-500">About</a>
   <a className="text-gray-300 transition-colors hover:text-orange-500">Skills</a>
   <a className="text-gray-300 transition-colors hover:text-orange-500">Projects</a>
   <a className="text-gray-300 transition-colors hover:text-orange-500">Contact</a>
